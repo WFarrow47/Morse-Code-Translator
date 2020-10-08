@@ -1,0 +1,11 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "Translate Morse code to text and vice-versa.",
+  "main": "translate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Farrow",
+  "license": "ISC"
+}
