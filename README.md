@@ -1,2 +1,2 @@
 # Morse-Code-Translator
-A Morse code translater in numerous languages.
+A Morse code translator in numerous languages.
